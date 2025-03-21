@@ -18,6 +18,8 @@ KAOLIN=false
 NVDIFFRAST=false
 DEMO=false
 
+echo "start"
+
 if [ "$#" -eq 1 ] ; then
     HELP=true
 fi
